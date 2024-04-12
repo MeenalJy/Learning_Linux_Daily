@@ -1,6 +1,6 @@
-# Learn Linux Repository
+# Linux Repository
 
-Welcome to the Learn Linux repository! Whether you're a beginner looking to get started with Linux or an advanced user seeking to deepen your knowledge, this repository has something for everyone. Let's dive in!
+Welcome to the Linux repository! Whether you're a beginner looking to get started with Linux or an advanced user seeking to deepen your knowledge, this repository has something for everyone. Let's dive in!
 
 ## Table of Contents
 
