@@ -1,5 +1,5 @@
 # State Management System
-Understanding the difference between Linux Runlevel and Linux Target is crucial for managing system states effectively. While Runlevel is the traditional system state management system, Target is the systemd equivalent used in modern Linux distributions. Familiarizing oneself with commands related to Runlevel and Target enables efficient system administration and troubleshooting.
+In Linux, runlevels and targets are used to determine the system state and which services or processes are running. Understanding the difference between runlevels and targets is crucial for managing system startup and shutdown processes effectively.
 
 
 ## Linux Runlevel vs Linux Target
