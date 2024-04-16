@@ -27,6 +27,7 @@ Here are some essential commands related to the Linux boot sequence:
 - `lsblk`: Lists block devices, useful for identifying storage devices and partitions.
 - `lsmod`: Lists loaded kernel modules, helpful for checking if necessary drivers are loaded.
 - `ps`: Displays information about running processes, including init and system services.
+- `fsck`: Used to check and repair the filesystem integrity.
 
 ## III. Troubleshooting Tips 
 
