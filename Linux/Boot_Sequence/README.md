@@ -1,5 +1,5 @@
 # Linux Boot Sequence 
-Welcome to the Linux Boot Sequence training session! In this session, we'll cover the Linux boot process, commands related to it, and tips for troubleshooting potential issues.
+I'll cover the Linux boot process, commands related to it, and tips for troubleshooting potential issues in this section.
 
 ## Linux Boot Sequence
 
