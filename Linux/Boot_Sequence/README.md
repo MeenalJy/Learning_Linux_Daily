@@ -1,7 +1,7 @@
 # Linux Boot Sequence 
-I'll cover the Linux boot process, commands related to it, and tips for troubleshooting potential issues in this section.
 
-## Linux Boot Sequence
+
+## I. Steps
 
 The Linux boot sequence involves several steps that the system follows to start up successfully:
 
@@ -17,7 +17,7 @@ The Linux boot sequence involves several steps that the system follows to start 
 
 6. **Login Prompt**: Finally, the system displays a login prompt, allowing users to log in and access the system.
 
-## Commands Related to Linux Boot Sequence
+## II. Some Related Commands
 
 Here are some essential commands related to the Linux boot sequence:
 
@@ -28,7 +28,7 @@ Here are some essential commands related to the Linux boot sequence:
 - `lsmod`: Lists loaded kernel modules, helpful for checking if necessary drivers are loaded.
 - `ps`: Displays information about running processes, including init and system services.
 
-## Tips for Troubleshooting Linux Boot Sequence
+## III. Troubleshooting Tips 
 
 When troubleshooting Linux boot issues, follow these tips:
 
