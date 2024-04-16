@@ -1,6 +1,6 @@
-# Linux Training Repository
+# Linux Introductory Repository
 
-Welcome to the Linux Training Repository! This repository contains resources and exercises to help you learn and master Linux, especially for those aspiring to become skilled System Administrators and DevOps Engineers.
+Welcome! Here, you'll find fundamental resources designed to give you a straightforward introduction to Linux.
 
 ## What? Why? When? Linux?
 
