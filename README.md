@@ -15,4 +15,4 @@ In this repository, you'll find:
 🌟 My mission is to make learning fun and easy!
 
 
-let's embrace the power of Linux together! Happy learning! 🌈✨
+Let's embrace the power of Linux together! Happy learning! 🌈✨
