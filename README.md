@@ -1,9 +1,5 @@
 # Learning_Linux_Daily
-
-Welcome to the Learning_Linux_Daily repository!
-
-## Introduction
-🚀 Dive into the world of Linux with us and embark on a journey of continuous learning and growth as a DevOps enthusiast.
+🚀 Dive into the world of Linux and embark on a journey of continuous learning.
 
 ## What You'll Find Here
 In this repository, you'll find:
