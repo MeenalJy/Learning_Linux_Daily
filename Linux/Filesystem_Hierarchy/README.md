@@ -86,4 +86,5 @@ The filesystem hierarchy in Linux follows a tree-like structure, with the root d
    - Displays the current working directory.
    - Example: `pwd` shows the current directory path.
 
-By mastering these commands and understanding the filesystem hierarchy, you'll have a solid foundation for effectively managing files and directories in Linux systems. Happy learning! 🚀
+---
+Happy learning! 🚀
