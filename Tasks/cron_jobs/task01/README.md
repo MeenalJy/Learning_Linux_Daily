@@ -24,11 +24,3 @@ Linux Backup Cron is a simple project aimed at automating the backup of importan
 4. **Test Backups**: Run test backups to ensure that the backup script is working correctly and that cron jobs are scheduled as expected.
 
 5. **Monitor and Maintain**: Regularly monitor backup logs and verify that backups are running successfully. Adjust backup configurations and cron job schedules as needed.
-
-## Contributing
-
-Contributions to Linux Backup Cron are welcome! If you have ideas for improvements, bug fixes, or new features, feel free to open an issue or submit a pull request. Please follow the [contribution guidelines](CONTRIBUTING.md) when contributing to this project.
-
-## License
-
-Linux Backup Cron is licensed under the [MIT License](LICENSE).
