@@ -14,11 +14,7 @@ This project is a simple calculator implemented in a shell script. It demonstrat
 - Menu-driven interface for user interaction.
 - Command line mode for quick calculations.
 - Error handling for invalid inputs and division by zero.
-
-## Prerequisites
-- Unix-like operating system (Linux, macOS)
-- Basic knowledge of terminal commands
-- Text editor (e.g., Vim, Nano, VS Code)
+  
 
 ## Installation
 1. Clone the repository:
