@@ -50,10 +50,6 @@ Example:
 ./calculator.sh 10 + 5
 ```
 
-## Script Details
-
-### calculator.sh
-
 
 ## Example Output
 
